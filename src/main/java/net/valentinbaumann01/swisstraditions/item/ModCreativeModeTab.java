@@ -7,6 +7,7 @@ import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.event.CreativeModeTabEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
+
 import net.valentinbaumann01.swisstraditions.SwissTraditions;
 
 @Mod.EventBusSubscriber(modid = SwissTraditions.MODID_ID, bus = Mod.EventBusSubscriber.Bus.MOD)
