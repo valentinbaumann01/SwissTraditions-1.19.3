@@ -34,6 +34,7 @@ public class SwissTraditions {
     private void addCreative(CreativeModeTabEvent.BuildContents event){
         if(event.getTab() == ModCreativeModeTab.SIWSSTRADITION_TAB){
             event.accept(ModItems.CHEESE);
+            event.accept(ModItems.CHOCOLATE);
         }
     }
 

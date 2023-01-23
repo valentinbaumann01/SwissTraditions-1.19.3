@@ -1,0 +1,52 @@
+Guidebook
+	Teilgebiete mit passenden Texten und Rezepten
+
+Farmen
+	Landwirtschaft
+		Werkzeuge und Maschinerei
+		Zusätzliches Gemüse und Früchte
+		Dünger (evtl Pfanlnzenparasiten-Kuhr)
+	Forstwirtschaft
+		Motorsage
+
+Rinder-Tierhaltung
+	Futter
+		Grünzeugs
+		Heu
+	Fäkalien
+		->Dünger
+	Milchproduktion
+		Käseproduktion
+		Schokoladenproduktion
+
+Präzishandwerk(Uhren, Sackmesser)
+	Neue Materialien/Erze?
+	Werkzeuge und Maschinen?
+
+Militär(Guns, Tanks)
+	Neue Materialien/Erze?
+	Werkzeuge und Maschinen?
+
+Töffli + Modding
+	Neue Materialien/Erze?
+	Werkzeuge und Maschinen?
+
+
+Sport
+	Schwingen
+	Hornussen
+	Ski-/Snowbaordsport
+
+
+(Extra)Schwizer Schalplattedrops/(Kreaturen Sounds?) (neue Kreaturen?)
+	Swissmemes
+----------------------------------------------------------------------------
+Aufgaben:
+
+Grundstruktur erarbeiten(Code):neue Items, Blockitems, Rezepte, Erze, Pfanzen, Baumpflanzen, Guidebook, Texturen, Sounds
+Research: Herstellung von Lebensmittel/Maschinen als Referenz
+Aufbereitung von Ressourcen(allgemien): Aussehen Items, Aufbereitung Sounds
+
+
+
+
